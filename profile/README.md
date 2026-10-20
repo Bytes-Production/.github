@@ -1,41 +1,87 @@
-<div align="center">
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:8b0000,100:ff1e3c&height=220&section=header&text=BYTES%20PRODUCTION&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Code.%20Create.%20Dominate.&descAlignY=60&descSize=20&animation=fadeIn" width="100%" />
+</p>
 
-# Bytes Production
+<p align="center">
+  <a href="https://store.devilbytes.com/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF1E3C&center=true&vCenter=true&width=650&lines=Premium+FiveM+Resources;Custom+Loading+Screens;QBCore+%26+ESX+Scripts;Modern+UI+%2F+HUD+Designs;Full+Roleplay+Server+Setups" alt="Typing SVG" />
+  </a>
+</p>
 
-### Code. Create. Dominate.
+<p align="center">
+  <a href="https://store.devilbytes.com/"><img src="https://img.shields.io/badge/🛒_Shop_Now-store.devilbytes.com-ff1e3c?style=for-the-badge&labelColor=0d0d0d" /></a>
+  <a href="https://discord.com/invite/NYkcHgjnx5"><img src="https://img.shields.io/badge/Discord-Join_the_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0d0d" /></a>
+  <a href="https://www.youtube.com/@BytesProductions"><img src="https://img.shields.io/badge/YouTube-@BytesProductions-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d0d0d" /></a>
+  <a href="https://www.devilbytes.com"><img src="https://img.shields.io/badge/Website-devilbytes.com-ffffff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d0d0d" /></a>
+</p>
 
-Premium **FiveM** resources for **GTA V roleplay** servers: custom loading screens, scripts, UI/HUD designs and full server setups.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-[![Store](https://img.shields.io/badge/Store-store.devilbytes.com-ff3b3b?style=for-the-badge)](https://store.devilbytes.com/)
-[![Website](https://img.shields.io/badge/Website-devilbytes.com-111111?style=for-the-badge)](https://www.devilbytes.com)
-[![YouTube](https://img.shields.io/badge/YouTube-@BytesProductions-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BytesProductions)
-[![Discord](https://img.shields.io/badge/Discord-Join%20us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/NYkcHgjnx5)
+## ⚡ About Us
 
-</div>
+> **Bytes Production** (formerly *Devil Bytes*) is a FiveM development studio building **premium, optimized and fully customizable** resources for GTA V roleplay servers — designed to make your city look sharp and run smooth.
 
----
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h3>🎬</h3>
+      <b>Loading Screens</b><br/>
+      <sub>Animated, branded & music-ready first impressions</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>⚙️</h3>
+      <b>Scripts</b><br/>
+      <sub>QBCore & ESX ready, lightweight & secure</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>🖥️</h3>
+      <b>UI / HUD</b><br/>
+      <sub>Clean, modern in-game interfaces</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>🛠️</h3>
+      <b>Server Setups</b><br/>
+      <sub>Complete, optimized RP server builds</sub>
+    </td>
+  </tr>
+</table>
 
-## What we build
+## 💎 Why Bytes?
 
-- 🎬 **Loading screens** – animated, branded FiveM loading experiences
-- ⚙️ **Scripts** – QBCore & ESX compatible resources
-- 🖥️ **UI / HUD** – clean, modern in-game interfaces
-- 🛠️ **Server setups** – complete, optimized roleplay server builds
+| Feature | Details |
+|:--|:--|
+| 🚀 **Optimized** | Low resmon, built for performance |
+| 🎨 **Custom Design** | Unique visuals that match your server's brand |
+| 🔌 **Plug & Play** | Easy install with clear configs |
+| 🤝 **Real Support** | Fast help through our Discord |
+| 🔄 **Regular Updates** | Fixes & new features over time |
 
-## Tech we work with
+## 🧰 Tech Stack
 
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![FiveM](https://img.shields.io/badge/FiveM-F40552?style=flat-square)
-![QBCore](https://img.shields.io/badge/QBCore-222222?style=flat-square)
-![ESX](https://img.shields.io/badge/ESX-222222?style=flat-square)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=lua,js,ts,html,css,react,vue,tailwind,nodejs,mysql,git,vscode&theme=dark" />
+</p>
 
-## Get in touch
+<p align="center">
+  <img src="https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white" />
+  <img src="https://img.shields.io/badge/QBCore-1e1e1e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ESX-1e1e1e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ox__lib-1e1e1e?style=for-the-badge" />
+</p>
 
-🛒 Shop: **[store.devilbytes.com](https://store.devilbytes.com/)**  
-💬 Support & updates: **[Discord](https://discord.com/invite/NYkcHgjnx5)**  
-📧 Business: **bytesproductions.1@gmail.com**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<div align="center"><sub>Bytes Production (formerly Devil Bytes)</sub></div>
+## 📬 Get In Touch
+
+<p align="center">
+  <b>🛒 Store</b> — <a href="https://store.devilbytes.com/">store.devilbytes.com</a> &nbsp;•&nbsp;
+  <b>💬 Support</b> — <a href="https://discord.com/invite/NYkcHgjnx5">Discord</a> &nbsp;•&nbsp;
+  <b>📧 Business</b> — <a href="mailto:bytesproductions.1@gmail.com">bytesproductions.1@gmail.com</a>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1e3c,50:8b0000,100:0d0d0d&height=120&section=footer" width="100%" />
+</p>
+
